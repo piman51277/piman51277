@@ -1,6 +1,6 @@
 ### Hello, I'm piman
 
-- 🔭 I’m currently working on piBot, piPrices, and everyday.tf
+- 🔭 I’m currently working on a few websites and piBot
 - 📫 How to reach me: piman.dev@gmail.com
 
 ### Stats
