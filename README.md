@@ -2,7 +2,7 @@
 
 - Maker of PiBot
 - Full stack, but better at backend
-- Learning website design
+- Learning Python libraries (np, mpl, etc.)
 - Reach me at piman.dev@gmail.com
 
 ### Stats
