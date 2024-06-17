@@ -1,8 +1,5 @@
 ### Hello, I'm piman
-
-- Maker of PiBot
-- Full stack, but better at backend
-- Learning CUDA
+- Currently learing CUDA
 - Reach me at piman.dev@gmail.com
 
 ### Stats
