@@ -1,5 +1,5 @@
 ### Hello, I'm piman
-- Currently learing CUDA
+- Currently learing Rust
 - Reach me at piman@piman.dev
 
 ### Stats
