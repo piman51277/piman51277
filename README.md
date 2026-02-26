@@ -1,5 +1,5 @@
 ### Hello, I'm piman
-- I do embedded software with webdev on the side.
+- I do embedded software & PCB design with webdev on the side.
 - Reach me at piman@piman.dev
 
 ### Stats
